@@ -5,7 +5,7 @@ I'm a Full Stack Developer who started his career in the food industry, specific
 - 🔭 I’m currently working on ... Finishing up BloomTech (formerly Lambda School)
 - 🌱 I’m currently learning ... Agile/Scrum and Gatsby.js
 - 👯 I’m looking to collaborate on ... Fun React Projects
-- 🤔 I’m looking for help with ... Styling (make ugly websites)
+- 🤔 I’m looking for help with ... Styling (I make ugly websites)
 - 💬 Ask me about ... Fountain Pens
 - 📫 How to reach me: ... pvigar@gmail.com
 - 😄 Pronouns: ... He/Him
