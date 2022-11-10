@@ -2,8 +2,8 @@
 
 I'm a Full Stack Developer who started his career in the food industry, specifically flavors regulatory.  During my almost 10 years in the food industry, I discovered not only a need for effective computer systems, but also the need for a system to be functional for the end user in the way they need it to function.  
 
-- 🔭 I’m currently working on ... Finishing up BloomTech (formerly Lambda School)
-- 🌱 I’m currently learning ... Agile/Scrum and Gatsby.js
+- 🔭 I’m currently working on ... designing parts of a global enterprise CRM
+- 🌱 I’m currently learning ... Japanese, dabbling with various tech
 - 👯 I’m looking to collaborate on ... Fun React Projects
 - 🤔 I’m looking for help with ... Styling (I make ugly websites)
 - 💬 Ask me about ... Fountain Pens
